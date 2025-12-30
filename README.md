@@ -12,18 +12,21 @@ This system solves common drafting challenges by providing:
 -Error-prevention tools to maintain drawing accuracy
 
 **Key Features**
+
 -Site plan templates with proper scaling
 -Structural drawing presets
 -Foundation and elevation dimension styles
 -Earthwork and grading annotation tools
 
 **Automation Tools**
+
 -One-click layer and style setup
 -Batch processing for multiple drawings
 -Automatic unit management
 -Smart dimension placement algorithms
 
 **Standards Compliance**
+
 -Pre-configured styles for different scales (1:50, 1:100, 1:200)
 -Layer naming conventions following industry standards
 -Annotation systems for architectural and engineering needs
@@ -31,6 +34,7 @@ This system solves common drafting challenges by providing:
 
 
 **Professional Benefits**
+
 -Unified drawing standards across team members
 -Easy onboarding for new team members
 -Reliable quality control
